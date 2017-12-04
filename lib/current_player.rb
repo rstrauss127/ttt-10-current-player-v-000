@@ -9,7 +9,7 @@ def turn_count(board)
       count += 1
     else
       count += 1
-  
+
     end
   end
 end
